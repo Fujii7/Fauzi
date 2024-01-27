@@ -4,7 +4,7 @@ fun itembarang(item:String):Int {
         "Topi" ->34999
         "Celana" -> 245000
         "Tas Sekolah" -> 120000
-        "Singlet" ->20000
+        "Singlet" ->25000
         else ->0
     }
 }
